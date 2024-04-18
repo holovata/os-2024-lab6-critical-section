@@ -1,0 +1,4 @@
+﻿  os_lab6.cpp
+C:\Work\mi31\операцийни системы\лаб6 critical section\os_lab6\os_lab6\os_lab6.cpp(41,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Work\mi31\операцийни системы\лаб6 critical section\os_lab6\os_lab6\os_lab6.cpp(42,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  os_lab6.vcxproj -> C:\Work\mi31\операцийни системы\лаб6 critical section\os_lab6\x64\Debug\os_lab6.exe
